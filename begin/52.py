@@ -1,0 +1,12 @@
+greeting = 'Hello!'
+print greeting[-1]
+print greeting[-2]
+print greeting[-3]
+print greeting[-4]
+print greeting[-5]
+print greeting[-6]
+print greeting[-5]
+print greeting[-4]
+print greeting[-3]
+print greeting[-2]
+print greeting[-1]
